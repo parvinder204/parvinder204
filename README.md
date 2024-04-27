@@ -1,5 +1,3 @@
-## About Me:
-Accomplished IT professional with expertise in a wide array of technologies including Django, Data analysis, Docker, AWS, Jenkins, DevOps, Data Structures and Algorithms (DSA), Data Visualization, C, C++, GIT & GitHub, Web Development, and SQL. With a proven track record of delivering high-quality solutions, I bring extensive experience in developing and deploying robust applications, implementing efficient data analysis pipelines, and optimizing system performance. Proficient in utilizing cutting-edge tools and frameworks, I excel in both backend and frontend development, adept at ensuring seamless integration and scalability. Adept at collaborating with cross-functional teams to drive innovation and achieve organizational objectives. My passion for technology and continuous learning fuels my commitment to staying at the forefront of industry trends and delivering excellence in every project undertaken.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parvinder-singh-7651932b2) 
